@@ -1,8 +1,20 @@
 {
-  "efarda": {
+  "efarda-purchase-res": {
     "result": 0,
     "description" : "success",
     "traceNumber" : "123456",
+    "amount" : 100000
+  },
+   "saman-purchase-res": {
+    "status": 2,
+    "desc" : "success",
+    "refNum" : "123456",
+    "amount" : 100000
+  },
+   "zibal-purchase-res": {
+    "status": 200,
+    "message" : "success",
+    "trackId" : "123456",
     "amount" : 100000
   }
 }
