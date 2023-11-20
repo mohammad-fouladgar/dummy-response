@@ -8,10 +8,7 @@
     { "id": 1, "body": "some comment", "postId": 1 },
     { "id": 2, "body": "some comment", "postId": 1 }
   ],
-  "efarda": {
-    "result" : 0,
-    "description" : "success",
-    "traceNumber" : 123456,
-    "amount" : 10000
+  "profile": {
+    "name": "typicode"
   }
 }
