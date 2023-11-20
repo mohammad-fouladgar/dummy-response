@@ -10,7 +10,7 @@
   ],
   "efarda": {
     "result" : 0,
-    "description" : "‫موفق‬",
+    "description" : "success",
     "traceNumber" : 123456,
     "amount" : 10000
   }
